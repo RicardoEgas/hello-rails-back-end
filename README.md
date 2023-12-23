@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Fullstack - Rails with React</b></h1>
+  <h1><b>Hello-Rails-Fullstack</b></h1>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 # 📖 Fullstack - Rails with React <a name="about-project"></a>
 
-**Fullstack - Rails with React** is a fullstack app that have 5 greetings
+**Hello-Rails-Fullstack** is a fullstack app that will greet user with 5 random greetings.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -176,7 +176,7 @@ it will run the the server on ```localhost:3000```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HtetWaiYan7191/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/RicardoEgas/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
